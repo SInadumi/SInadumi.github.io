@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. student, Nara Institute of Science and Technology, 2024.4 - 2027.3 (expected)
+  * Superviser: Prof. Koichiro Yoshino
+* Master of Engineering, Nara Institute of Science and Technology, 2022.4 - 2024.3
+  * Thesis: Disambiguating Ambiguous Questions using Eye-Gaze in Visual Question Answering
+  * Superviser: Prof. Koichiro Yoshino
+* Bachelor of Engineering, Kyoto Institute of Technology, 2020.4 - 2022.3
+  * Thesis: Generating Questions for Patient-Doctor Dialogue Simulator
+  * Superviser: Assoc. prof. Masahiro Araki
+* Associate Degree of Engineering, National Institute of Technology, Oita College, 2015.4 - 2020.3
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr. 2024 - : Junior Research Associate
+  * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
+  <!-- * Theme: Multimodal Dialogue Summarization using Speakers' Non-Verbal Information -->
+  <!-- * Supervisor: Dr. Koichiro Yoshino -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2023 - Feb. 2023: Research Internship
+  * NTT Human Informatics Laboratores, NTT corporation
+  * Theme: An Integrated Understanding of Vision and Language
+  * Supervisor: Dr. Kyosuke Nishida, Dr. Taku Hasegawa
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2023 - Mar. 2024: Part-time worker
+  * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
+  <!-- * Theme: Disambiguating Ambiguous Questions using Eye-Gaze in Visual Question Answering -->
+  <!-- * Supervisor: Dr. Koichiro Yoshino -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, C, Java
+* Deep Learning with Pytorch
 
-Publications
+
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Young Sprout Award, The 96th Workshop of Special Interest Group on Spoken Language Understanding and Dialogue Processing (SIGSLUD), 2022
