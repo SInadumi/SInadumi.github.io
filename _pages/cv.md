@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D. student, Nara Institute of Science and Technology, 2024.4 - 2027.3 (expected)
-  * Superviser: Prof. Koichiro Yoshino
+  * Supervisor: Prof. Koichiro Yoshino
 * Master of Engineering, Nara Institute of Science and Technology, 2022.4 - 2024.3
   * Thesis: Disambiguating Ambiguous Questions using Eye-Gaze in Visual Question Answering
-  * Superviser: Prof. Koichiro Yoshino
+  * Supervisor: Prof. Koichiro Yoshino
 * Bachelor of Engineering, Kyoto Institute of Technology, 2020.4 - 2022.3
   * Thesis: Generating Questions for Patient-Doctor Dialogue Simulator
-  * Superviser: Assoc. prof. Masahiro Araki
+  * Supervisor: Assoc. prof. Masahiro Araki
 * Associate Degree of Engineering, National Institute of Technology, Oita College, 2015.4 - 2020.3
 
 
