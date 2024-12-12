@@ -25,14 +25,14 @@ Work experience
   * Supervisor: Dr. Koichiro Yoshino
 
 * Aug. 2024 - Sep. 2024: Research Internship
-  * NTT Human Informatics Laboratores, NTT corporation
+  * NTT Human Informatics Laboratories
   <!-- * Theme: Building Vision and Language Models using Model Merging -->
   * Supervisor: Dr. Taku Hasegawa
 
 * Jan. 2023 - Feb. 2023: Research Internship
-  * NTT Human Informatics Laboratores, NTT corporation
+  * NTT Human Informatics Laboratories
   <!-- * Theme: An Integrated Understanding of Vision and Language -->
-  * Supervisor: Dr. Kyosuke Nishida, Dr. Taku Hasegawa
+  * Supervisor: Dr. Kyosuke Nishida and Dr. Taku Hasegawa
 
 * Jan. 2023 - Mar. 2024: Part-time worker
   * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
