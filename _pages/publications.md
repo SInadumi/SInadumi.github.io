@@ -19,16 +19,20 @@ author_profile: true
 ======
 * test2 -->
 
-International Conference / Workshops (Refereed)
+International Conferences / Workshops (Refereed)
 ======
 * Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino: “A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions”, The 2024 Joint International Conference on Computational Linguistics Language Resources and Evaluation (LREC-COLING2024), pp. 558-571, Torino, May. 2024.
   * [paper](https://aclanthology.org/2024.lrec-main.48/), [dataset](https://github.com/riken-grp/GazeVQA), [poster](http://sinadumi.github.io/files/202405_lrec_coling_poster.pdf)
 
-International Conference / Workshops (Non-refereed)
+International Conferences / Workshops (Non-refereed)
 ======
 * Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino: ”Question Disambiguation Using Eye-gaze Context”, Seventh International Workshop on Symbolic-Neural Learning (SNL2023), Tokyo, June. 2023.
 
-Domestic Conference
+Domestic Journals (Refereed)
+======
+* 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 自然言語処理, vol. 32, no. 1, 2025年3月. [発行予定]
+
+Domestic Conferences
 ======
 * 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 言語処理学会第30回年次大会 (NLP2024), 神戸, 2024年4月.
 
