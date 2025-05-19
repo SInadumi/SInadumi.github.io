@@ -37,7 +37,7 @@ Domestic Journals (Refereed)
 
 Domestic Conferences
 ======
-* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話における参照関係の統合的解析”, 言語処理学会第31回年次大会 (NLP2025), 神戸, 2025年3月.
+* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話における参照関係の統合的解析”, 言語処理学会第31回年次大会 (NLP2025), 長崎, 2025年3月.
   * [poster](http://sinadumi.github.io/files/202503_NLP2025_poster.pdf)
 
 * 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 言語処理学会第30回年次大会 (NLP2024), 神戸, 2024年3月.
