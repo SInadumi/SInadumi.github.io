@@ -21,6 +21,9 @@ author_profile: true
 
 International Conferences / Workshops (Refereed)
 ======
+* Shun Inadumi, Nobuhiro Ueda, Koichiro Yoshino: "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL2025), pp. xx-xx, Vienna, July. 2025.
+  * [paper](https://aclanthology.org/2024.lrec-main.48/), [code](https://github.com/SInadumi/mmrr)
+
 * Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino: “A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions”, The 2024 Joint International Conference on Computational Linguistics Language Resources and Evaluation (LREC-COLING2024), pp. 558-571, Torino, May. 2024.
   * [paper](https://aclanthology.org/2024.lrec-main.48/), [dataset](https://github.com/riken-grp/GazeVQA), [poster](http://sinadumi.github.io/files/202405_lrec_coling_poster.pdf)
 
@@ -30,11 +33,14 @@ International Conferences / Workshops (Non-refereed)
 
 Domestic Journals (Refereed)
 ======
-* 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 自然言語処理, vol. 32, no. 1, 2025年3月. [発行予定]
+* 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 自然言語処理, vol. 32, no. 1, 2025年3月.
 
 Domestic Conferences
 ======
-* 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 言語処理学会第30回年次大会 (NLP2024), 神戸, 2024年4月.
+* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話における参照関係の統合的解析”, 言語処理学会第31回年次大会 (NLP2025), 神戸, 2025年3月.
+  * [poster](http://sinadumi.github.io/files/202503_NLP2025_poster.pdf)
+
+* 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 言語処理学会第30回年次大会 (NLP2024), 神戸, 2024年3月.
 
 * 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”視覚的質問応答における視線情報を用いた曖昧な質問の明確化”, 第99回研究会言語・音声理解と対話処理研究会 (SIG-SLUD), 東京, 2023年12月.
 

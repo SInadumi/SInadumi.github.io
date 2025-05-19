@@ -18,5 +18,6 @@ Research Topics
 
 News
 ======
+* 05/2025 My first-author paper "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures" has been accepted at ACL 2025.
 * 05/2024 A Gaze-grounded Visual Question Answering Dataset is out on [github](https://github.com/riken-grp/GazeVQA/). 
 * 02/2024 My first-author paper "A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions" has been accepted at LREC-COLING 2024.
