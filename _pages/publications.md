@@ -22,7 +22,7 @@ author_profile: true
 International Conferences / Workshops (Refereed)
 ======
 * Shun Inadumi, Nobuhiro Ueda, Koichiro Yoshino: "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL2025), pp. xx-xx, Vienna, July. 2025.
-  * [paper](https://aclanthology.org/2024.lrec-main.48/), [code](https://github.com/SInadumi/mmrr)
+  * [paper](https://arxiv.org/abs/2505.11726), [code](https://github.com/SInadumi/mmrr)
 
 * Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino: “A Gaze-grounded Visual Question Answering Dataset for Clarifying Ambiguous Japanese Questions”, The 2024 Joint International Conference on Computational Linguistics Language Resources and Evaluation (LREC-COLING2024), pp. 558-571, Torino, May. 2024.
   * [paper](https://aclanthology.org/2024.lrec-main.48/), [dataset](https://github.com/riken-grp/GazeVQA), [poster](http://sinadumi.github.io/files/202405_lrec_coling_poster.pdf)
