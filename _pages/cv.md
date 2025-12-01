@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* May 2025 - : Research Internship
+  * OMRON SINIC X Corp.
+  * Supervisor: Dr. Shohei Tanaka, Dr. Tosho Hirasawa and Dr. Atsushi Hashimoto
+
 * Apr. 2024 - : Junior Research Associate
   * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
   <!-- * Theme: Multimodal Dialogue Summarization using Speakers' Non-Verbal Information -->
