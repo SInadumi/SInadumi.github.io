@@ -21,6 +21,9 @@ author_profile: true
 
 International Conferences / Workshops (Refereed)
 ======
+* Shun Inadumi, Shohei Tanaka, Tosho Hirasawa, Atsushi Hashimoto, Koichiro Yoshino, Yoshitaka Ushiku: "SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts", Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), pp. xx-xx, Denver, June, 2026.
+  * [paper](https://arxiv.org/abs/2511.22490), [project page](https://omron-sinicx.github.io/paper2layout/)
+
 * Shun Inadumi, Nobuhiro Ueda, Koichiro Yoshino: "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL2025), pp. 11183-11198, Vienna, July. 2025.
   * [paper](https://aclanthology.org/2025.acl-long.547/), [code](https://github.com/SInadumi/mmrr), [poster](http://sinadumi.github.io/files/202507_acl_poster.pdf), [slides](http://sinadumi.github.io/files/202507_acl_slides.pdf)
 
@@ -29,8 +32,6 @@ International Conferences / Workshops (Refereed)
 
 International Workshops / Preprints(Non-refereed)
 ======
-* Shun Inadumi, Shohei Tanaka, Tosho Hirasawa, Atsushi Hashimoto, Koichiro Yoshino, Yoshitaka Ushiku: "SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts", arXiv:2511.22490.
-  * [paper](https://arxiv.org/abs/2511.22490)
 
 * Shun Inadumi, Seiya Kawano, Akishige Yuguchi, Yasutomo Kawanishi, Koichiro Yoshino: ”Question Disambiguation Using Eye-gaze Context”, Seventh International Workshop on Symbolic-Neural Learning (SNL2023), Tokyo, June. 2023.
 
@@ -40,6 +41,8 @@ Domestic Journals (Refereed)
 
 Domestic Conferences
 ======
+* 李相明, 稲積駿, 吉野幸一郎: "構造的曖昧性下におけるVision and Language アラインメントのためのベンチマーク", 第267回自然言語処理研究発表会, 宇都宮, 2026年3月
+
 * 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話における参照関係の統合的解析”, 言語処理学会第31回年次大会 (NLP2025), 長崎, 2025年3月.
   * [poster](http://sinadumi.github.io/files/202503_NLP2025_poster.pdf)
 

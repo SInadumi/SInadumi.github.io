@@ -19,29 +19,30 @@ Education
 
 Work experience
 ======
-* May 2025 - : Research Internship
-  * OMRON SINIC X Corp.
+* May 2025 - Mar. 2026: Research Internship
+  * OMRON SINIC X Corporation
   * Supervisor: Dr. Shohei Tanaka, Dr. Tosho Hirasawa and Dr. Atsushi Hashimoto
 
 * Apr. 2024 - : Junior Research Associate
   * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
-  <!-- * Theme: Multimodal Dialogue Summarization using Speakers' Non-Verbal Information -->
   * Supervisor: Dr. Koichiro Yoshino
 
 * Aug. 2024 - Sep. 2024: Research Internship
   * NTT Human Informatics Laboratories
-  <!-- * Theme: Building Vision and Language Models using Model Merging -->
   * Supervisor: Dr. Taku Hasegawa
 
 * Jan. 2023 - Feb. 2023: Research Internship
   * NTT Human Informatics Laboratories
-  <!-- * Theme: An Integrated Understanding of Vision and Language -->
   * Supervisor: Dr. Kyosuke Nishida and Dr. Taku Hasegawa
 
 * Jan. 2023 - Mar. 2024: Part-time worker
   * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
-  <!-- * Theme: Disambiguating Ambiguous Questions using Eye-Gaze in Visual Question Answering -->
   * Supervisor: Dr. Koichiro Yoshino
+
+<!-- Academic Services
+=====
+* Conference Reviewer
+  * ICASSP: 2025 -->
 
 Skills
 ======
