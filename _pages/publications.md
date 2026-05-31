@@ -21,8 +21,8 @@ author_profile: true
 
 International Conferences / Workshops (Refereed)
 ======
-* Shun Inadumi, Shohei Tanaka, Tosho Hirasawa, Atsushi Hashimoto, Koichiro Yoshino, Yoshitaka Ushiku: "SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts", Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), pp. xx-xx, Denver, June, 2026.
-  * [paper](https://arxiv.org/abs/2511.22490), [project page](https://omron-sinicx.github.io/paper2layout/)
+* Shun Inadumi, Shohei Tanaka, Tosho Hirasawa, Atsushi Hashimoto, Koichiro Yoshino, Yoshitaka Ushiku: "SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts", Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2026), pp. 2131-2141, Denver, June, 2026.
+  * [paper](https://arxiv.org/abs/2511.22490), [project page](https://omron-sinicx.github.io/paper2layout/), [poster](http://sinadumi.github.io/files/202606_cvprf_poster.pdf)
 
 * Shun Inadumi, Nobuhiro Ueda, Koichiro Yoshino: "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL2025), pp. 11183-11198, Vienna, July. 2025.
   * [paper](https://aclanthology.org/2025.acl-long.547/), [code](https://github.com/SInadumi/mmrr), [poster](http://sinadumi.github.io/files/202507_acl_poster.pdf), [slides](http://sinadumi.github.io/files/202507_acl_slides.pdf)
@@ -37,6 +37,8 @@ International Workshops / Preprints(Non-refereed)
 
 Domestic Journals (Refereed)
 ======
+* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話の参照関係の統合的解析”, 自然言語処理, vol. 33, no. 3, 2026年9月. (in press)
+
 * 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 自然言語処理, vol. 32, no. 1, 2025年3月.
 
 Domestic Conferences
