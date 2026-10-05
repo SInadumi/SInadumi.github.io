@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), Japan.
-I'm currently a Junior Research Associate at [Knowledge Acquisition and Dialogue Process Research Team](https://grp.riken.jp/en/labs/knowl_acqui_dialogue/), Guardian Robot Project, RIKEN.
+Assistant Professor at the [Department of System Science](https://www.sys.es.osaka-u.ac.jp/), [School of Engineering Science](https://www.es.osaka-u.ac.jp/ja/), [The University of Osaka](https://www.osaka-u.ac.jp/en).
 
 Research Topics
 ======

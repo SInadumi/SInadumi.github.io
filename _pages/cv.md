@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student, Nara Institute of Science and Technology, 2024.4 - 2027.3 (expected)
-* Master of Engineering, Nara Institute of Science and Technology, 2022.4 - 2024.3
-* Bachelor of Engineering, Kyoto Institute of Technology, 2020.4 - 2022.3
+* Ph.D. in Engineering, Nara Institute of Science and Technology, 2024.4 - 2026.9
+* M.S. in Engineering, Nara Institute of Science and Technology, 2022.4 - 2024.3
+* B.S. in Engineering, Kyoto Institute of Technology, 2020.4 - 2022.3
 * Associate Degree of Engineering, National Institute of Technology, Oita College, 2015.4 - 2020.3
 
 
@@ -23,7 +23,7 @@ Work experience
   * OMRON SINIC X Corporation
   * Supervisor: Dr. Shohei Tanaka, Dr. Tosho Hirasawa and Dr. Atsushi Hashimoto
 
-* Apr. 2024 - : Junior Research Associate
+* Apr. 2024 - Sep. 2026: Junior Research Associate
   * Knowledge Acquisition and Dialogue Process Research Team, Guardian Robot Project, RIKEN
   * Supervisor: Dr. Koichiro Yoshino
 

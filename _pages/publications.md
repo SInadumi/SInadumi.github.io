@@ -37,7 +37,7 @@ International Workshops / Preprints(Non-refereed)
 
 Domestic Journals (Refereed)
 ======
-* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話の参照関係の統合的解析”, 自然言語処理, vol. 33, no. 3, 2026年9月. (in press)
+* 稲積駿, 植田 暢大, 吉野幸一郎: ”実世界対話の参照関係の統合的解析”, 自然言語処理, vol. 33, no. 3, 2026年9月.
 
 * 稲積駿, 河野誠也, 湯口彰重,川西康友, 吉野幸一郎: ”Visual Question Answeringにおける視線情報を用いた質問の曖昧性解消”, 自然言語処理, vol. 32, no. 1, 2025年3月.
 
